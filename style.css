@@ -1,0 +1,62 @@
+.likes{
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: red;
+}
+
+#Likes {
+    font-style: italic;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: green;
+}
+
+.dislikes {
+    font-style: italic;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: green;
+
+}
+
+#Dislikes{
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: red;
+}
+
+
+div {
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 200;
+    font-size: medium;
+}
+
+h2 {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: x-large;
+    color: black;
+
+}
+
+body {
+ background-color: antiquewhite;
+}
+ul {
+    list-style-type: circle;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ol {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
